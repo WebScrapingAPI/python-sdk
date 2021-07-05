@@ -66,5 +66,5 @@ jobs:
     - name: Commit
       run: |
         git add --all
-        git commit -m "Automativ Version Bump"
+        git commit -m "Automatic Version Bump"
         git push
