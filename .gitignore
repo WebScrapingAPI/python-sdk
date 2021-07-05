@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+
+build/
+dist/
+webscrapingapi.egg-info/
