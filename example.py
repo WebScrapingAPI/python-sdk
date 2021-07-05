@@ -1,6 +1,6 @@
 from webscrapingapi import WebScrapingApiClient
 
-client = WebScrapingApiClient(api_key='76SxogX9jwYmIoCl3D1QpYdWgcgIuwSF')
+client = WebScrapingApiClient(api_key='API_KEY')
 
 response = client.get('https://webscrapingapi.com', params={
     'render_js': 0,
