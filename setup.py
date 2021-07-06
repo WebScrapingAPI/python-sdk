@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='webscrapingapi',
-    version="1.2.4",
+    version="1.2.5",
     url='https://github.com/WebScrapingAPI/python-sdk',
     description='WebScrapingApi Python SDK',
     long_description=open('README.md').read(),
