@@ -24,7 +24,7 @@ from webscrapingapi import WebScrapingApiClient
 
 client = WebScrapingApiClient(api_key='YOUR_API_KEY')
 
-response = client.get('http://188.212.37.134/test.php', params ={
+response = client.get('https://webscrapingapi.com/', params ={
     # API Parameters
     # Set to 0 (off, default) or 1 (on) depending on whether or not to render JavaScript on the target web page. JavaScript rendering is done by using a browser.
     'render_js': 1,
