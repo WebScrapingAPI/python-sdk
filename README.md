@@ -50,6 +50,6 @@ response = client.get('https://webscrapingapi.com/', params ={
 })
 ```
 
-For a better understanding of the parameters, please check out [our documentation](https://docs.webscrapingapi.com/#request-parameters)
+For a better understanding of the parameters, please check out [our documentation](https://app.webscrapingapi.com/documentation/getting-started)
 
 
